@@ -1,0 +1,23 @@
+{
+  "name": "webcrawllerhttp",
+  "version": "1.0.0",
+  "description": "project for learn http",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khalid-MahmouD/webcrawllerhttp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khalid-MahmouD/webcrawllerhttp/issues"
+  },
+  "homepage": "https://github.com/Khalid-MahmouD/webcrawllerhttp#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
